@@ -31,8 +31,11 @@
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/running.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/right_turn.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/right_turn_90.uasset",
-				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/IdlePose.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/Movement.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/NewBlendSpace.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/walking_back.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/running_back.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/IdlePose.uasset",
 				"C:/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset"
 			]
 		}
