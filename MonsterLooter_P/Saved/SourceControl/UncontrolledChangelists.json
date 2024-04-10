@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Levels/TestLevel.umap",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Blueprints/GM.uasset",
-				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Blueprints/Player.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Blueprints/Rogue.uasset",
 				"C:/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/CharAnimBP.uasset",
@@ -32,9 +31,19 @@
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/right_turn.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/right_turn_90.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/Movement.uasset",
-				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/NewBlendSpace.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/walking_back.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/running_back.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/left_strafe_walking_back.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/right_strafe_walking_back.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/walking_reverse.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/right_strafe_reverse.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/left_strafe_reverse.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/Jumping.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/Jumping_Up.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/NewIKRig.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/IK_Skeleton.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Blueprints/Player.uasset",
+				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/NewBlendSpace.uasset",
 				"C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Content/Animation/IdlePose.uasset",
 				"C:/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset"
 			]
