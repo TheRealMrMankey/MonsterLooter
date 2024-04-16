@@ -1,0 +1,8 @@
+light duration formula
+
+d- drain amount
+dly - delay amount
+tl - total amount
+t - duration
+
+  t = tl / (d / dly)
