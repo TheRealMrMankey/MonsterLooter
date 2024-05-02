@@ -17,8 +17,21 @@
 		},
 		{
 			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
+		},
+		{
+			"Name": "WFC3DDemo",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/423e3d794bb14a30aab2d1784fc74905"
+		},
+		{
+			"Name": "ProceduralDungeon",
+			"Enabled": false
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
