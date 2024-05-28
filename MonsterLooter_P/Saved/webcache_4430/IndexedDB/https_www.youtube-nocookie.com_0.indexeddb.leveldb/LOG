@@ -1,3 +1,15 @@
-2024/05/13-10:38:55.713 2904 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/13-10:38:55.718 2904 Recovering log #4
-2024/05/13-10:38:55.719 2904 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/28-13:36:11.989 30e0 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/28-13:36:11.998 30e0 Recovering log #4
+2024/05/28-13:36:11.998 30e0 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/28-15:40:56.150 4c74 Level-0 table #8: started
+2024/05/28-15:40:56.169 4c74 Level-0 table #8: 190 bytes OK
+2024/05/28-15:40:56.172 4c74 Delete type=0 #4
+2024/05/28-15:40:56.173 4c74 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/28-15:40:56.174 4c74 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 59 : 1
+2024/05/28-15:40:56.175 4c74 Compacting 1@1 + 1@2 files
+2024/05/28-15:40:56.190 4c74 Generated table #9@1: 18 keys, 534 bytes
+2024/05/28-15:40:56.190 4c74 Compacted 1@1 + 1@2 files => 534 bytes
+2024/05/28-15:40:56.192 4c74 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/28-15:40:56.192 4c74 Delete type=2 #5
+2024/05/28-15:40:56.192 4c74 Delete type=2 #8
+2024/05/28-15:40:56.194 4c74 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 59 : 1 .. (end); will stop at (end)
