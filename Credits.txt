@@ -6,3 +6,9 @@ Candles - https://sketchfab.com/3d-models/candles-aaf37708f4d34774b9369aa8843eaf
 Zombie - https://sketchfab.com/3d-models/monster-062983f2f26e4230a4ec5bfc4d5a44c8
 ExitDoor - https://sketchfab.com/3d-models/medieval-door-038a9ea81ade4a56b6528e314b83140e
 Portal - https://sketchfab.com/3d-models/magic-portal-50f5030139de4d94a5adcfe90c0ba1ac
+BarrelStand - https://sketchfab.com/3d-models/medieval-barrel-stand-535af97e00e94a2abee81a91f468046a
+Barrel - https://sketchfab.com/3d-models/barrel-bb33682490034f81af89b9ce28c37d0e
+Table - https://sketchfab.com/3d-models/wooden-table-31ab9f9ad2fa425aa75e8bb76cad8fc1
+Bench - https://sketchfab.com/3d-models/wood-bench-old-3d-scan-retopo-d3abaaefbe434c0f9fe2c67ab3d5b710
+Stool - https://sketchfab.com/3d-models/tavern-stool-5f3ffc39a148491e825ea0d46dbe401b
+Pillar - https://sketchfab.com/3d-models/aged-support-beam-3afabff2d68c49a081dc010ff99fccaa
