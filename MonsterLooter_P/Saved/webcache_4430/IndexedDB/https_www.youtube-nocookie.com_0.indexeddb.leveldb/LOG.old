@@ -1,3 +1,8 @@
-2024/05/13-10:38:55.713 2904 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/13-10:38:55.718 2904 Recovering log #4
-2024/05/13-10:38:55.719 2904 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/06/07-10:51:43.095 1194 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/07-10:51:43.096 1194 Recovering log #7
+2024/06/07-10:51:43.097 1194 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/06/07-10:52:52.961 4360 Level-0 table #12: started
+2024/06/07-10:52:52.961 4360 Level-0 table #12: 0 bytes OK
+2024/06/07-10:52:52.965 4360 Delete type=0 #7
+2024/06/07-10:52:52.966 4360 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/07-10:52:52.967 4360 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

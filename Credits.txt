@@ -12,3 +12,6 @@ Table - https://sketchfab.com/3d-models/wooden-table-31ab9f9ad2fa425aa75e8bb76ca
 Bench - https://sketchfab.com/3d-models/wood-bench-old-3d-scan-retopo-d3abaaefbe434c0f9fe2c67ab3d5b710
 Stool - https://sketchfab.com/3d-models/tavern-stool-5f3ffc39a148491e825ea0d46dbe401b
 Pillar - https://sketchfab.com/3d-models/aged-support-beam-3afabff2d68c49a081dc010ff99fccaa
+OpenBox - https://sketchfab.com/3d-models/damaged-wooden-crate-23f1284109bc4954b76cf99a591f7817
+Old Bag - https://sketchfab.com/3d-models/old-fashioned-sack-c2bb74d1f3e24e849b523f22456ffee3
+Skull Light - https://sketchfab.com/3d-models/skull-light-4b6364c86d4442f6ae9bb06d72ee4787
