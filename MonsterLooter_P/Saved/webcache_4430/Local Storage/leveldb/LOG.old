@@ -1,3 +1,6 @@
-2024/05/29-11:49:03.853 3bb0 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/05/29-11:49:03.875 3bb0 Recovering log #8
-2024/05/29-11:49:03.889 3bb0 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2024/06/07-10:51:35.308 2a90 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/07-10:51:35.312 2a90 Recovering log #8
+2024/06/07-10:51:35.315 2a90 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2024/06/07-10:52:43.064 20e8 Level-0 table #12: started
+2024/06/07-10:52:43.069 20e8 Level-0 table #12: 22202 bytes OK
+2024/06/07-10:52:43.072 20e8 Delete type=0 #8
