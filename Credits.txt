@@ -24,3 +24,5 @@ Ram Skull - https://sketchfab.com/3d-models/ram-skull-9e914d2d7e8c405db6e896b8db
 Tavern Portal - https://sketchfab.com/3d-models/portal-frame-da34b37a224e4e49b307c0b17a50af2c
 Dungeon BG - https://freesound.org/people/univ_lyon3/sounds/442961/
 Desert BG - https://freesound.org/people/kwahmah_02/sounds/259244/
+Creep Roar - https://freesound.org/people/cmusounddesign/sounds/72036/
+Zombie Steps - https://freesound.org/people/_bepis/sounds/423196/
