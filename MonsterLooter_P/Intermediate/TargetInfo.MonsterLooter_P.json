@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MonsterLooter_P",
+			"Path": "..\\Source\\MonsterLooter_P.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MonsterLooter_PEditor",
+			"Path": "..\\Source\\MonsterLooter_PEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,851 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "B52E1F00CCAED807C15A9AFC0F76A287B1CC8E00",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "232FDB038C6392FD9BD28407BC3943CF8D0AF70E",
+			"Assets": [
+				"/Game/Models/Monsters/Creep/CreepMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5F1205A792DB0D2E63E352DED5402A5C6B1241",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "583E3F09DA130AB2150236D4F6D187879634780A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "876A8509ADF6983AB6127289CBBB7B94B128028C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B04B40E49BD5E920A5D27E53A91106ABB3C8987",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "58B1C50E2263C3F7A093B4636964549D4751AE2E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6472EE0F33979D8285A12155B9701D449EECA552",
+			"Assets": [
+				"/Engine/EngineMaterials/HighResScreenshot"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0C7511EA17179DD7BED771D0C83BABCD0F2B6E",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Cup/textures_UE/Cup"
+			]
+		},
+		{
+			"ShaderMapHash": "F054F611C1D0DB0CF5E64624CDB40F0305465073",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD90E1218FE2BC26E44705469763671EB05FDCD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "270F7814D478C4728CA749993E2EF2A5153DE44C",
+			"Assets": [
+				"/Game/Models/Lantern/Daco_5128727",
+				"/Game/Models/Map/Tavern/BarrelStand/flame"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "ED3C7F18149F614CCCBAF4C23342728E4306A946",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "DDB5581A616C015DF9702EBE3ADCAC3FA854A1D4",
+			"Assets": [
+				"/Game/Levels/Desert"
+			]
+		},
+		{
+			"ShaderMapHash": "5ECC1A1B3CBB98BA9CAD8AC39BC0C4E3C55EFF07",
+			"Assets": [
+				"/Game/Models/Map/Landscape/checkersDesert"
+			]
+		},
+		{
+			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "690F911CF32FE4ACF2326FD5C68D0B8ABE7E0EA6",
+			"Assets": [
+				"/Bridge/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E866FD1EF0A49E17BD988F5D9175AAA20CD9E883",
+			"Assets": [
+				"/Game/Megascans/3D_Assets/Desert_Western_Rock_Small_01_xgjqajg/Rock1Desert",
+				"/Game/Megascans/3D_Assets/Desert_Western_Rock_Small_02_xgjqbag/Rock2Desert",
+				"/Game/Megascans/3D_Assets/Desert_Western_Rock_Small_03_xgjqbbb/Rock3Desert"
+			]
+		},
+		{
+			"ShaderMapHash": "71B40C1FF53078BBFF39D289B8D44D07654AAC29",
+			"Assets": [
+				"/Game/Models/Map/Tavern/SkullLights/SkullLight"
+			]
+		},
+		{
+			"ShaderMapHash": "26130621326E643DE16B1FD5E1507983025B44C7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "575FDE25A9764DF0BB00EA74F28B733F4CE25FD8",
+			"Assets": [
+				"/Game/Models/Map/Landscape/gameres_gameres_lambertDesert"
+			]
+		},
+		{
+			"ShaderMapHash": "58E64926E04BE0BF53B1F2E4691A1ED9A835695F",
+			"Assets": [
+				"/Game/Models/NPC/Shopkeeper/Vampire_MAT_Transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "8A440A28073F8FFBA4CE78BC597A0A5503C3EA0A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "77A3A82E385E6CB932CCB6ADC60968FDF14BBDC8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "16D8FE2EF233FDCC4B274E69FED8F203150F0D68",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "50D8922F11D85023C9530E7A21E0D278C5117DEA",
+			"Assets": [
+				"/Game/Models/Map/Landscape/gameres_gameres_lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "EE2C9432A5A963915C26295E3CAB01A672B85462",
+			"Assets": [
+				"/Game/Megascans/3D_Assets/Huge_Canyon_Sandstone_Cliff_vb1macxfa/DesertCanyon"
+			]
+		},
+		{
+			"ShaderMapHash": "6034C538A301AB33237CCDAC13B69B8FBFDC83FF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "83EC583E5BD5D8A1CB0D1AA54C2EFDE324F7F68E",
+			"Assets": [
+				"/Game/Megascans/3D_Assets/Dusty_Concrete_Stairs_uiznce1ga/DesertStairs",
+				"/Game/Megascans/3D_Assets/Roman_Column_tj1lebsfa/FullCollumnDesert"
+			]
+		},
+		{
+			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "320CDD401E151F5CC714EE553957578BCA2EBF02",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "428196425AA220EDA5A5E28ACBD4BF917F63F12F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "330CC643A8ED7DA3556727C78310B524B6ED24B4",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "7ADCCC4567B76F5910F6CDE09AEAF10CB8454CDA",
+			"Assets": [
+				"/Game/VFX/Magic_sparks"
+			]
+		},
+		{
+			"ShaderMapHash": "39929646DBD5649A43AB72B500E78C7326430533",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "1B3E4347ED805789208C3F75FDF8BD623DC236EB",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "33A8D147EF0375454C59CA6C643345594E75FFC7",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9772DF479A949810AC5AF42B82A7CE83D0164133",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Bench/Bench"
+			]
+		},
+		{
+			"ShaderMapHash": "D6680548DFE49C1A2C69FCA51FBB438448771FBD",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0033D34A2F4F97C97EA1816078772F0646E9EF89",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7D68844BF4A4DE11720E02D8EE96FEF8B9D9ABB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5F8DD94F78FD4D802642B20F2944BD8B7310A567",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "93C64E5039C167D6DD2D34EFCD07051A8D654CAD",
+			"Assets": [
+				"/Game/Models/Map/Tavern/BarrelStand/bottle",
+				"/Game/Models/Map/Tavern/BarrelStand/columns",
+				"/Game/Models/Map/Tavern/BarrelStand/firewoods",
+				"/Game/Models/Map/Tavern/BarrelStand/material",
+				"/Game/Models/Map/Tavern/BarrelStand/planks",
+				"/Game/Models/Map/Tavern/BarrelStand/shelf",
+				"/Game/Models/Map/Tavern/SkullPost/07_-_Default",
+				"/Game/Models/Map/Tavern/SkullPost/phong2"
+			]
+		},
+		{
+			"ShaderMapHash": "FD79E5534A32A1112CD981B35E84E19B08EA871B",
+			"Assets": [
+				"/Game/Models/Map/Exits/textures/ExitDesert"
+			]
+		},
+		{
+			"ShaderMapHash": "F5751254195C2C13F40D2A2D64DCBE55DE109FA8",
+			"Assets": [
+				"/Game/Models/NPC/Shopkeeper/Vampire_MAT1"
+			]
+		},
+		{
+			"ShaderMapHash": "CAB6F154FB3051CE4186AE8D277DFBCDC421BE81",
+			"Assets": [
+				"/Game/Models/Lantern/Material_004",
+				"/Game/Models/Lantern/Material_005",
+				"/Game/Models/Lantern/Material_006",
+				"/Game/Models/Lantern/Material_010",
+				"/Game/Models/Map/Tavern/Bag/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "F3F16F580CCD0648A6CBAB1128925B2B2928062D",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7FA66D5D5632C6E28A42316FCDD20C6B65F6660C",
+			"Assets": [
+				"/Game/Models/Map/Landscape/gameres_gameres_ground_RocksDesert"
+			]
+		},
+		{
+			"ShaderMapHash": "26BE9162E284FAF1CCB8A5E1B8980B75DB2223CE",
+			"Assets": [
+				"/Game/Models/Player/MainCharacter/Paladin_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "C09EB964AB88FC895A249E8031C9242CE891ADCD",
+			"Assets": [
+				"/Game/Models/Map/SpikeTrap/source/OPM0042",
+				"/Game/Models/Monsters/Zombie/textures/Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "3C137167C575C8DA5015D2FEDF150BB132E5ECA0",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A904E767C40BEFEFD2AF9DA2A5F5CA09DFF28877",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "596722681231C7A74762A1B2CF501C53E42569C3",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9D826A181223FFA8973616259762977E852C47",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D0962070D1EFDB2EF2C93743A59B1348A655E422",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "96B030703B088BAEDCA5E8382DA0D8A3B402C1C6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "979A4475E0B6772FE78F89F40310043023AB5238",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "239FCE79F06C0BE9976135AC0D3B2783BE974F36",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "49D3FF7B126457D23C44BD8BE5C422C6045DBD70",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "956C0B7C49BEEAFF7AB319D3F29EFDFB03928D4E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C5640D7CF09079AE4ECB38C51A5FB75F45949787",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5FA36B7C1240DEB2F3965F73EA67A732D8C1B0B8",
+			"Assets": [
+				"/Game/Megascans/3D_Assets/Roman_Broken_Column_Base_tfkpeglda/BrokenCollumnDesert",
+				"/Game/Megascans/3D_Assets/Roman_Broken_Column_tk4tfgzfa/BrokenPillar"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA1227FF5CE7CF1859E669782B686D5C2EF0693",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFF267F4A5A10C4D79AF096123116690BC088D5",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "6CA92083FB20AEE82584232FA97A265CC36C7629",
+			"Assets": [
+				"/Game/Megascans/3D_Assets/Roman_Stone_Floor_tkkrcayfa/StoneFloor"
+			]
+		},
+		{
+			"ShaderMapHash": "A91D70836DDDFC77ED8938B0C925B9A03789C0A1",
+			"Assets": [
+				"/Game/Materials/SkyboxM"
+			]
+		},
+		{
+			"ShaderMapHash": "70F41084DC7274E8BDC9D6CA5F79A8B4A8BA00A5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C583DE852A5F992138240C09B6083166591E3EE1",
+			"Assets": [
+				"/Game/Materials/Black"
+			]
+		},
+		{
+			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "2A0FA28E55237086758797D386F52B2DB8F4B6FB",
+			"Assets": [
+				"/Game/Models/Lantern/Material_003",
+				"/Game/Models/Lantern/Material_007"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7F5F918EB9886C8E52123DCC8A045AF8F02874",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FBA7959472889B854E9D941F22331DEB9D2AD7AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9A805098C42C67B3FA48E9A48F53CADC3E7E5366",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "440ED4980DEEA500D2DC86924A327CCE27EE245C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF4069943148BEDEFB850C29CE2AA9947255EAE",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "5796D899038314AA64EAE748C678BECF7D46CEEA",
+			"Assets": [
+				"/Game/Models/Map/Door/Balcony_door"
+			]
+		},
+		{
+			"ShaderMapHash": "82E6DC9C596DD6AAA8C097ED02381484874420E5",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BE57909DB03EC18CC9FB1583FC96DFD787EDB0F6",
+			"Assets": [
+				"/Game/Models/Map/Landscape/gameres_gameres_ground_Rocks",
+				"/Game/Models/Map/Tavern/Barrel/material",
+				"/Game/Models/Map/Tavern/Counter/Back",
+				"/Game/Models/Map/Tavern/Counter/Bottom",
+				"/Game/Models/Map/Tavern/Counter/inside_the_back",
+				"/Game/Models/Map/Tavern/Counter/material",
+				"/Game/Models/Map/Tavern/Counter/Material_284",
+				"/Game/Models/Map/Tavern/Counter/Material_285",
+				"/Game/Models/Map/Tavern/Counter/Material_286",
+				"/Game/Models/Map/Tavern/OpenBox/crate",
+				"/Game/Models/Map/Tavern/Pillars/Support_Beam",
+				"/Game/Models/Map/Tavern/SkullPost/Rope",
+				"/Game/Models/Map/Tavern/SkullPost/Standard_Texture",
+				"/Game/Models/Map/Tavern/SkullPost/Standard_Texture_001",
+				"/Game/Models/Map/Tavern/Table/TT_checker_512x512_UV_GRID",
+				"/Game/Models/MoneyBag/UV_Grid"
+			]
+		},
+		{
+			"ShaderMapHash": "7BDC1FA06BE59BF740629282C15475DC3B0B5935",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "533210A191DDE777697662714A8C479C4C8D8B94",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/Models/Chalice/source/5002_Kielich"
+			]
+		},
+		{
+			"ShaderMapHash": "2AE5C0AB677058B151304286BCABB0A5DB5E0C34",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "496C60B4E1DC8F7EAD84EABB9D72B0D6D715746E",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Bottle/Probka"
+			]
+		},
+		{
+			"ShaderMapHash": "B3602CB5BE34B235EC8ACE178C59D95B6347228F",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F4E93BB884589071305E40C4BEA237B6BAD5A14D",
+			"Assets": [
+				"/Game/Models/Lantern/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "078A55B8F5EE6A0E11C47F37A2F5693E18A1B07A",
+			"Assets": [
+				"/Game/Models/Candle/source/Candl"
+			]
+		},
+		{
+			"ShaderMapHash": "E3780AB90509F0D202291E2324BAE8E831143E70",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "987B29BAC1B1DEBE4A04A12886C0655C69BDCCE8",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Bag/sack",
+				"/Game/Models/Map/Tavern/BarrelStand/barrels",
+				"/Game/Models/Map/Tavern/BarrelStand/pipes",
+				"/Game/Models/Map/Tavern/BarrelStand/sconce",
+				"/Game/Models/Map/Tavern/Chandeler/default",
+				"/Game/Models/Map/Tavern/Shelf/Scene_-_Root",
+				"/Game/Models/Map/Tavern/SkullPost/Iron_001",
+				"/Game/Models/Map/Tavern/SkullPost/Iron_002"
+			]
+		},
+		{
+			"ShaderMapHash": "70D0DFBCD8FB2BF4F3BAA87E4CCE1F23C4AEEFFF",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Stool/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8F69C215EBFD12AAF73B462E9B4CABD3858E88",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "EA5D5EC404F5BF2FB34A1A38B526A1C7235560D2",
+			"Assets": [
+				"/Game/Models/Map/Tavern/SkullPost/defaultMat"
+			]
+		},
+		{
+			"ShaderMapHash": "38D40CCAEB82E9EB230018255E3E3485A98C9E5B",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "A791B8CACAC777B397D6E80209EDBD66B816900C",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Barrel/Mat_1",
+				"/Game/Models/Map/Tavern/SkullPost/Iron_003"
+			]
+		},
+		{
+			"ShaderMapHash": "C2BE37CBEF726C92E1C9480F5A7BEE55D7BB5613",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Bench2/Textures/Bench"
+			]
+		},
+		{
+			"ShaderMapHash": "8AC18BCB87CF40BB130C1AA54E4DC72091DB15D7",
+			"Assets": [
+				"/Game/Models/Map/Tavern/RamSkull/Ram_2_Rings"
+			]
+		},
+		{
+			"ShaderMapHash": "E3E28DCC23B91583170180881B052C88A5A1E94C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "CDD6F6D0AAACD600E94525FBEEA46E214381CE46",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E7E7F5D10F3EC1F1572BD3461A28CBF102B8794B",
+			"Assets": [
+				"/Game/Models/Map/Landscape/gameres_gameres_PortalRocksDesert"
+			]
+		},
+		{
+			"ShaderMapHash": "3E481FD556500629B5BD4D42760074172FAB0947",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "274888D74EF6005CD6B5876D682003A665998415",
+			"Assets": [
+				"/Game/Models/NPC/GateKeeper/Mat_Necromanser_Body",
+				"/Game/Models/NPC/GateKeeper/Mat_Necromanser_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "D30CB2D763121E62B6F03AC130C23610E67C3F20",
+			"Assets": [
+				"/Game/Models/Map/Tavern/BarrelStand/stands"
+			]
+		},
+		{
+			"ShaderMapHash": "58E0D0D7BE82D866263ED3B02933513A523DD9DA",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset03"
+			]
+		},
+		{
+			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B2900DB235D6517C5445FBBBBEE8BB27966BFAF",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Bag/rope"
+			]
+		},
+		{
+			"ShaderMapHash": "C11799DBC510DDA5EDAF8DA24DC7A63CF0959A6A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "38245FDD5EAD0E4B0F41B8549FAE36C7DAEC8EBE",
+			"Assets": [
+				"/Game/Models/Map/Tavern/SkullPost/Iron"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1459DF79C16FFF982BBFEFCA2F91074D0BB4FC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/SunPosition/Editor/M_ArrowColor"
+			]
+		},
+		{
+			"ShaderMapHash": "7F1D07E0F250BCF6E5A0A07D665048B3CFFF2287",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8599D5E28511A4F5740673E2AF8965ACFC2D5715",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC747E37AB725E3F60F54292C29790FF5274180",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "E47299E3EC0E49743795BFC1E3CB83D51FD41EFC",
+			"Assets": [
+				"/Game/Models/Map/Tavern/BarrelStand/ground"
+			]
+		},
+		{
+			"ShaderMapHash": "15FDF5EB2282704AB90D9A143F7219B80198A1A6",
+			"Assets": [
+				"/Game/Materials/Green"
+			]
+		},
+		{
+			"ShaderMapHash": "BAFE0FEDE4B49C46826A735A271AB7B047C287D9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial",
+				"/Game/DungeonGenerator/Materials/Mat_Example"
+			]
+		},
+		{
+			"ShaderMapHash": "A6F702EE816A6B122B156E2095CA942D81DE57AD",
+			"Assets": [
+				"/Game/Models/Map/Landscape/checkers",
+				"/Game/Models/Map/Landscape/gameres_gameres_PortalRocks",
+				"/Game/Models/Map/Tavern/PortalBase/PortalFrame"
+			]
+		},
+		{
+			"ShaderMapHash": "4927A6EE827CB91675EF41CFDDA067ADA2E25093",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "658CFAF10D734C744A329E6444A791BCD82EAA1E",
+			"Assets": [
+				"/Game/Models/Map/Tavern/Bottle/Botle"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1145F6A7D2C96D666CB7F3A5DFD7F11B0D3512",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4596F8F6BB82A444F38C61229A130D749B03F174",
+			"Assets": [
+				"/Game/Megascans/3D_Assets/Desert_Western_Cliff_Layered_Xl_05_vcepaakga/DesertCliff"
+			]
+		},
+		{
+			"ShaderMapHash": "CA72D0F7944C4563C70D133F64977044A60EBE0B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9CC9BCFB1252CD82B805F55F219E2DC1B1C5BCF4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F7AA6FD9E1FB9EC7BC35C7BCF6EB83B7AA3F46F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		}
+	]
+}

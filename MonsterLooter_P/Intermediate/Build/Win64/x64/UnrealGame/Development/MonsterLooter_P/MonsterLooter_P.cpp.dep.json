@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\unreal\\monsterlooter\\monsterlooter_p\\source\\monsterlooter_p\\monsterlooter_p.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\unreal\\monsterlooter\\monsterlooter_p\\intermediate\\build\\win64\\x64\\monsterlooter_p\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\projects\\unreal\\monsterlooter\\monsterlooter_p\\intermediate\\build\\win64\\x64\\unrealgame\\development\\monsterlooter_p\\definitions.monsterlooter_p.h",
+            "c:\\projects\\unreal\\monsterlooter\\monsterlooter_p\\source\\monsterlooter_p\\monsterlooter_p.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

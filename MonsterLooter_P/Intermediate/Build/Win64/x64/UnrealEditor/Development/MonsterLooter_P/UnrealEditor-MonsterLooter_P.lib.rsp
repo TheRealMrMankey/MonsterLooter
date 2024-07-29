@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MonsterLooter_P.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\Unreal\MonsterLooter\MonsterLooter_P\Intermediate\Build\Win64\x64\MonsterLooter_PEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Projects\Unreal\MonsterLooter\MonsterLooter_P\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterLooter_P\MonsterLooter_P.cpp.obj"
+"C:\Projects\Unreal\MonsterLooter\MonsterLooter_P\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterLooter_P\MyClass.cpp.obj"
+"C:\Projects\Unreal\MonsterLooter\MonsterLooter_P\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterLooter_P\Default.rc2.res"
+/OUT:"C:\Projects\Unreal\MonsterLooter\MonsterLooter_P\Intermediate\Build\Win64\x64\UnrealEditor\Development\MonsterLooter_P\UnrealEditor-MonsterLooter_P.lib"
