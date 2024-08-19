@@ -1,8 +1,15 @@
-2024/06/07-10:51:43.095 1194 Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/07-10:51:43.096 1194 Recovering log #7
-2024/06/07-10:51:43.097 1194 Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
-2024/06/07-10:52:52.961 4360 Level-0 table #12: started
-2024/06/07-10:52:52.961 4360 Level-0 table #12: 0 bytes OK
-2024/06/07-10:52:52.965 4360 Delete type=0 #7
-2024/06/07-10:52:52.966 4360 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2024/06/07-10:52:52.967 4360 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2024/08/19-11:47:29.032 520c Reusing MANIFEST C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/19-11:47:29.042 520c Recovering log #11
+2024/08/19-11:47:29.042 520c Reusing old log C:/Projects/Unreal/MonsterLooter/MonsterLooter_P/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000011.log 
+2024/08/19-11:48:20.244 503c Level-0 table #15: started
+2024/08/19-11:48:20.256 503c Level-0 table #15: 547 bytes OK
+2024/08/19-11:48:20.258 503c Delete type=0 #11
+2024/08/19-11:48:20.260 503c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/19-11:48:20.260 503c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 65 : 1
+2024/08/19-11:48:20.261 503c Compacting 1@1 + 1@2 files
+2024/08/19-11:48:20.273 503c Generated table #16@1: 18 keys, 534 bytes
+2024/08/19-11:48:20.273 503c Compacted 1@1 + 1@2 files => 534 bytes
+2024/08/19-11:48:20.274 503c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/19-11:48:20.275 503c Delete type=2 #9
+2024/08/19-11:48:20.275 503c Delete type=2 #15
+2024/08/19-11:48:20.276 503c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 65 : 1 .. (end); will stop at (end)
